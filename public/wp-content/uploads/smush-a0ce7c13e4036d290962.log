@@ -1,0 +1,319 @@
+[2022-05-01 14:41:16 : INFO] - Re_Smush_It_Task with attachment ID : 1807, autocreated on : May 01, 2022 02:41:16 
+[2022-05-01 14:41:49 : INFO] - Re_Smush_It_Task with attachment ID : 1808, autocreated on : May 01, 2022 02:41:49 
+[2022-05-01 14:42:03 : INFO] - Re_Smush_It_Task with attachment ID : 1809, autocreated on : May 01, 2022 02:42:03 
+[2022-05-01 14:42:50 : INFO] - Re_Smush_It_Task with attachment ID : 1810, autocreated on : May 01, 2022 02:42:50 
+[2022-05-01 14:43:21 : INFO] - Re_Smush_It_Task with attachment ID : 1811, autocreated on : May 01, 2022 02:43:21 
+[2022-05-01 14:43:46 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:45:54 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:23 : INFO] - 
+ 
+[2022-05-01 14:46:23 : INFO] - Header for logs at time:  Sun, 01 May 2022 14:46:23 +0000 on http://localhost:10010 
+[2022-05-01 14:46:23 : INFO] - WP: 5.9.3 
+[2022-05-01 14:46:23 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT DESKTOP-8B0KV3Q 10.0 build 19044 (Windows 10) AMD64) 
+[2022-05-01 14:46:23 : INFO] - MySQL: 8.0.16 
+[2022-05-01 14:46:23 : INFO] - WPLANG: fr_FR 
+[2022-05-01 14:46:23 : INFO] - Server: nginx/1.16.0 
+[2022-05-01 14:46:23 : INFO] - Outbound connections: N 
+[2022-05-01 14:46:23 : INFO] - safe_mode: 0 
+[2022-05-01 14:46:23 : INFO] - max_execution_time: 1200 
+[2022-05-01 14:46:23 : INFO] - memory_limit: 256M (used: 24.5M | 2M) 
+[2022-05-01 14:46:23 : INFO] - multisite: N 
+[2022-05-01 14:46:23 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-01 14:46:23 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2022-05-01 14:46:23 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-05-01 14:46:23 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-05-01 14:46:23 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2022-05-01 14:46:23 : INFO] - Task with ID 23 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:46:23 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2022-05-01 14:46:23 : INFO] - Task with ID 24 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:46:23 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2022-05-01 14:46:23 : INFO] - Task with ID 25 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:46:23 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2022-05-01 14:46:23 : INFO] - Task with ID 26 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:46:23 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2022-05-01 14:46:23 : INFO] - Task with ID 27 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:46:23 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2022-05-01 14:46:23 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:23 : INFO] - 75 
+[2022-05-01 14:46:23 : INFO] - Re_Smush_It_Task with attachment ID : 1817, autocreated on : May 01, 2022 02:46:23 
+[2022-05-01 14:46:23 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:23 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:23 : INFO] - 75 
+[2022-05-01 14:46:23 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:23 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:23 : INFO] - 75 
+[2022-05-01 14:46:23 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:23 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:23 : INFO] - 75 
+[2022-05-01 14:46:23 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:23 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:23 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:23 : INFO] - 75 
+[2022-05-01 14:46:24 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:24 : INFO] - 75 
+[2022-05-01 14:46:24 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:24 : INFO] - 75 
+[2022-05-01 14:46:24 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:24 : INFO] - 75 
+[2022-05-01 14:46:24 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:24 : INFO] - 75 
+[2022-05-01 14:46:24 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:24 : INFO] - 75 
+[2022-05-01 14:46:24 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:24 : INFO] - 75 
+[2022-05-01 14:46:24 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1812, autocreated on : May 01, 2022 02:43:46 
+[2022-05-01 14:46:24 : INFO] - 75 
+[2022-05-01 14:46:24 : INFO] - Task with ID 28 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:24 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2022-05-01 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:24 : INFO] - 75 
+[2022-05-01 14:46:24 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:24 : INFO] - 75 
+[2022-05-01 14:46:24 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:24 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:24 : INFO] - 75 
+[2022-05-01 14:46:25 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:25 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:25 : INFO] - 75 
+[2022-05-01 14:46:25 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:25 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:25 : INFO] - 75 
+[2022-05-01 14:46:25 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:25 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:25 : INFO] - 75 
+[2022-05-01 14:46:25 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:25 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:25 : INFO] - 75 
+[2022-05-01 14:46:25 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:25 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:25 : INFO] - 75 
+[2022-05-01 14:46:25 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:25 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:25 : INFO] - 75 
+[2022-05-01 14:46:25 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:25 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:25 : INFO] - 75 
+[2022-05-01 14:46:25 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:25 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:25 : INFO] - 75 
+[2022-05-01 14:46:25 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:25 : INFO] - Re_Smush_It_Task with attachment ID : 1816, autocreated on : May 01, 2022 02:45:54 
+[2022-05-01 14:46:25 : INFO] - 75 
+[2022-05-01 14:46:25 : INFO] - Task with ID 29 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:46:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:46:25 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-05-01 14:46:25 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2022-05-01 14:46:25 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-05-01 14:46:55 : INFO] - Re_Smush_It_Task with attachment ID : 1818, autocreated on : May 01, 2022 02:46:55 
+[2022-05-01 14:47:18 : INFO] - Re_Smush_It_Task with attachment ID : 1819, autocreated on : May 01, 2022 02:47:18 
+[2022-05-01 14:47:45 : INFO] - Re_Smush_It_Task with attachment ID : 1820, autocreated on : May 01, 2022 02:47:45 
+[2022-05-01 14:51:45 : INFO] - Re_Smush_It_Task with attachment ID : 1822, autocreated on : May 01, 2022 02:51:45 
+[2022-05-01 14:52:43 : INFO] - Re_Smush_It_Task with attachment ID : 1823, autocreated on : May 01, 2022 02:52:43 
+[2022-05-01 14:53:33 : INFO] - Re_Smush_It_Task with attachment ID : 1824, autocreated on : May 01, 2022 02:53:33 
+[2022-05-01 14:54:44 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:55:53 : INFO] - Re_Smush_It_Task with attachment ID : 1826, autocreated on : May 01, 2022 02:55:52 
+[2022-05-01 14:56:30 : INFO] - 
+ 
+[2022-05-01 14:56:30 : INFO] - Header for logs at time:  Sun, 01 May 2022 14:56:30 +0000 on http://localhost:10010 
+[2022-05-01 14:56:30 : INFO] - WP: 5.9.3 
+[2022-05-01 14:56:30 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT DESKTOP-8B0KV3Q 10.0 build 19044 (Windows 10) AMD64) 
+[2022-05-01 14:56:30 : INFO] - MySQL: 8.0.16 
+[2022-05-01 14:56:30 : INFO] - WPLANG: fr_FR 
+[2022-05-01 14:56:30 : INFO] - Server: nginx/1.16.0 
+[2022-05-01 14:56:30 : INFO] - Outbound connections: N 
+[2022-05-01 14:56:30 : INFO] - safe_mode: 0 
+[2022-05-01 14:56:30 : INFO] - max_execution_time: 1200 
+[2022-05-01 14:56:30 : INFO] - memory_limit: 256M (used: 24.5M | 2M) 
+[2022-05-01 14:56:30 : INFO] - multisite: N 
+[2022-05-01 14:56:30 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-01 14:56:30 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2022-05-01 14:56:30 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-05-01 14:56:30 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-05-01 14:56:30 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2022-05-01 14:56:30 : INFO] - Task with ID 30 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:56:30 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2022-05-01 14:56:30 : INFO] - Task with ID 31 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:56:30 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2022-05-01 14:56:30 : INFO] - Task with ID 32 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:56:30 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2022-05-01 14:56:30 : INFO] - Task with ID 33 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:56:30 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2022-05-01 14:56:30 : INFO] - Task with ID 34 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:56:30 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2022-05-01 14:56:30 : INFO] - Task with ID 35 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:56:30 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2022-05-01 14:56:30 : INFO] - Task with ID 36 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:56:30 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2022-05-01 14:56:30 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:56:30 : INFO] - 75 
+[2022-05-01 14:57:00 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 30009 milliseconds with 0 bytes received 
+[2022-05-01 14:57:00 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:00 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:00 : INFO] - 75 
+[2022-05-01 14:57:05 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:05 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:05 : INFO] - 75 
+[2022-05-01 14:57:05 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:05 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:05 : INFO] - 75 
+[2022-05-01 14:57:05 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:05 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:05 : INFO] - 75 
+[2022-05-01 14:57:05 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:05 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:05 : INFO] - 75 
+[2022-05-01 14:57:05 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:05 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:05 : INFO] - 75 
+[2022-05-01 14:57:05 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:05 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:05 : INFO] - 75 
+[2022-05-01 14:57:05 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:05 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:05 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:05 : INFO] - 75 
+[2022-05-01 14:57:05 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:06 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:06 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:06 : INFO] - 75 
+[2022-05-01 14:57:06 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:06 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:06 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:06 : INFO] - 75 
+[2022-05-01 14:57:06 : INFO] - Re_Smush_It_Task with attachment ID : 1827, autocreated on : May 01, 2022 02:57:06 
+[2022-05-01 14:57:06 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:06 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:06 : INFO] - Re_Smush_It_Task with attachment ID : 1825, autocreated on : May 01, 2022 02:54:44 
+[2022-05-01 14:57:06 : INFO] - 75 
+[2022-05-01 14:57:06 : INFO] - Task with ID 37 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 14:57:06 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 14:57:06 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2022-05-01 14:57:06 : INFO] - Task with ID 38 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 14:57:06 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-05-01 14:57:06 : INFO] - Successfully processed the queue (smush). 9 tasks were processed out of 9. 
+[2022-05-01 14:57:06 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-05-01 14:57:43 : INFO] - Re_Smush_It_Task with attachment ID : 1828, autocreated on : May 01, 2022 02:57:43 
+[2022-05-01 14:57:54 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 16:58:20 : INFO] - 
+ 
+[2022-05-01 16:58:20 : INFO] - Header for logs at time:  Sun, 01 May 2022 16:58:20 +0000 on http://localhost:10010 
+[2022-05-01 16:58:20 : INFO] - WP: 5.9.3 
+[2022-05-01 16:58:20 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT DESKTOP-8B0KV3Q 10.0 build 19044 (Windows 10) AMD64) 
+[2022-05-01 16:58:20 : INFO] - MySQL: 8.0.16 
+[2022-05-01 16:58:20 : INFO] - WPLANG: fr_FR 
+[2022-05-01 16:58:20 : INFO] - Server: nginx/1.16.0 
+[2022-05-01 16:58:20 : INFO] - Outbound connections: N 
+[2022-05-01 16:58:20 : INFO] - safe_mode: 0 
+[2022-05-01 16:58:20 : INFO] - max_execution_time: 1200 
+[2022-05-01 16:58:20 : INFO] - memory_limit: 256M (used: 24.5M | 2M) 
+[2022-05-01 16:58:20 : INFO] - multisite: N 
+[2022-05-01 16:58:20 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-01 16:58:20 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2022-05-01 16:58:20 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-05-01 16:58:20 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-05-01 16:58:20 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2022-05-01 16:58:20 : INFO] - Task with ID 39 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 16:58:20 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2022-05-01 16:58:20 : INFO] - Task with ID 40 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-05-01 16:58:20 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2022-05-01 16:58:20 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 16:58:20 : INFO] - 75 
+[2022-05-01 16:58:50 : INFO] - Task with ID 41 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 30014 milliseconds with 0 bytes received 
+[2022-05-01 16:58:50 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 16:58:50 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 16:58:50 : INFO] - 75 
+[2022-05-01 16:59:10 : INFO] - Task with ID 41 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 16:59:10 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 16:59:10 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 16:59:10 : INFO] - 75 
+[2022-05-01 16:59:40 : INFO] - Task with ID 41 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 30006 milliseconds with 0 bytes received 
+[2022-05-01 16:59:40 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 16:59:40 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 16:59:40 : INFO] - 75 
+[2022-05-01 16:59:49 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 16:59:49 : INFO] - 75 
+[2022-05-01 17:00:16 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-05-01 17:00:16 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/126329cd33c4f78511e5c6a87de21f34\/_src_28964-768x432.jpg","dest":"http:\/\/par3.static.resmush.it\/126329cd33c4f78511e5c6a87de21f34\/28964-768x432.jpg","src_size":58338,"dest_size":51920,"percent":11,"output":"json","expires":"Sun, 01 May 2022 19:05:11 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-05-01 17:00:16 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 17:00:16 : INFO] - 75 
+[2022-05-01 17:00:28 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-05-01 17:00:28 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/b3aabce3f526d0a1008fce9776fbeedb\/_src_28964-1536x864.jpg","dest":"http:\/\/par2.static.resmush.it\/b3aabce3f526d0a1008fce9776fbeedb\/28964-1536x864.jpg","src_size":189751,"dest_size":172188,"percent":9,"output":"json","expires":"Sun, 01 May 2022 19:05:23 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-05-01 17:00:28 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 17:00:28 : INFO] - 75 
+[2022-05-01 17:00:48 : INFO] - Task with ID 41 and type (smush) failed with error code http_request_failed - Missing header/body separator 
+[2022-05-01 17:00:48 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 17:00:48 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 17:00:48 : INFO] - 75 
+[2022-05-01 17:00:53 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 17:00:53 : INFO] - 75 
+[2022-05-01 17:01:23 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-05-01 17:01:23 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/695a799527cdc85182ec323a36b51364\/_src_28964-1200x700.jpg","dest":"http:\/\/par3.static.resmush.it\/695a799527cdc85182ec323a36b51364\/28964-1200x700.jpg","src_size":129301,"dest_size":116826,"percent":10,"output":"json","expires":"Sun, 01 May 2022 19:06:18 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-05-01 17:01:23 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 17:01:23 : INFO] - 75 
+[2022-05-01 17:01:53 : INFO] - Task with ID 41 and type (smush) failed with error code http_request_failed - cURL error 28: Operation timed out after 30008 milliseconds with 0 bytes received 
+[2022-05-01 17:01:53 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2022-05-01 17:01:53 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 17:01:53 : INFO] - 75 
+[2022-05-01 17:02:18 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-05-01 17:02:18 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/ddec1507a4815f03e1442092c86915f7\/_src_28964-600x338.jpg","dest":"http:\/\/par3.static.resmush.it\/ddec1507a4815f03e1442092c86915f7\/28964-600x338.jpg","src_size":38705,"dest_size":34400,"percent":11,"output":"json","expires":"Sun, 01 May 2022 19:07:13 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-05-01 17:02:18 : INFO] - Re_Smush_It_Task with attachment ID : 1829, autocreated on : May 01, 2022 02:57:54 
+[2022-05-01 17:02:18 : INFO] - 75 
+[2022-05-01 17:02:49 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2022-05-01 17:02:49 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/a1fa614440939c4343e86b907a5db128\/_src_28964-100x100.jpg","dest":"http:\/\/par2.static.resmush.it\/a1fa614440939c4343e86b907a5db128\/28964-100x100.jpg","src_size":3590,"dest_size":3263,"percent":9,"output":"json","expires":"Sun, 01 May 2022 19:07:44 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2022-05-01 17:02:49 : INFO] - Successfully optimized the image - C:\Users\cedri\Local Sites\vision-digital-4-0\app\public/wp-content/uploads/2022/05/28964.jpg. 
+[2022-05-01 17:02:49 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2022-05-01 17:02:49 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-05-01 17:02:49 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2022-05-01 17:02:49 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-05-01 17:02:49 : INFO] - Cleaning up tasks of type (smush). A total of 19 tasks will be deleted. 
+[2022-05-01 17:33:33 : INFO] - 
+ 
+[2022-05-01 17:33:33 : INFO] - Header for logs at time:  Sun, 01 May 2022 17:33:33 +0000 on http://localhost:10010 
+[2022-05-01 17:33:33 : INFO] - WP: 5.9.3 
+[2022-05-01 17:33:33 : INFO] - PHP: 7.4.1 (cgi-fcgi, Windows NT DESKTOP-8B0KV3Q 10.0 build 19044 (Windows 10) AMD64) 
+[2022-05-01 17:33:33 : INFO] - MySQL: 8.0.16 
+[2022-05-01 17:33:33 : INFO] - WPLANG: fr_FR 
+[2022-05-01 17:33:33 : INFO] - Server: nginx/1.16.0 
+[2022-05-01 17:33:33 : INFO] - Outbound connections: N 
+[2022-05-01 17:33:33 : INFO] - safe_mode: 0 
+[2022-05-01 17:33:33 : INFO] - max_execution_time: 1200 
+[2022-05-01 17:33:33 : INFO] - memory_limit: 256M (used: 24.5M | 2M) 
+[2022-05-01 17:33:33 : INFO] - multisite: N 
+[2022-05-01 17:33:33 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2022-05-01 17:33:33 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

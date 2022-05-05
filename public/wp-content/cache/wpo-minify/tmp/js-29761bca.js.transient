@@ -1,0 +1,1 @@
+{"request":{"hurl":"http:\/\/localhost:10003\/wp-content\/themes\/oceanwp-child\/ocean-wp-child.js","inline":"","enable_minification":true,"type":"js","handle":"qgjs","version":false},"log":{"url":"\/wp-content\/themes\/oceanwp-child\/ocean-wp-child.js","success":true},"code":"const buttons=document.querySelectorAll(\".wpforms-submit-container > button\");\n","status":true}

@@ -1,0 +1,65 @@
+2022-04-19T08:14:24+00:00 CRITICAL Uncaught Error: Call to undefined function action() in /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php:30
+Stack trace:
+#0 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(309): change_button_function('Envoyer')
+#1 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(189): WP_Hook->apply_filters('Envoyer', Array)
+#2 /home/wilder/Local/vision-digital-4-0/app/public/wp-content/plugins/wpforms-lite/includes/class-frontend.php(1039): apply_filters('wpforms_field_s...', 'Envoyer', Array)
+#3 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(307): WPForms_Frontend->foot(Array, NULL, false, false, Array)
+#4 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#6 /home/wilder/Local/vision-digital-4-0/app/public/wp-content/pl dans /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php à la ligne 30
+
+2022-04-19T08:22:35+00:00 CRITICAL Uncaught Error: Call to undefined function action() in /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php:35
+Stack trace:
+#0 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(309): change_button_function('Envoyer')
+#1 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(189): WP_Hook->apply_filters('Envoyer', Array)
+#2 /home/wilder/Local/vision-digital-4-0/app/public/wp-content/plugins/wpforms-lite/includes/class-frontend.php(1039): apply_filters('wpforms_field_s...', 'Envoyer', Array)
+#3 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(307): WPForms_Frontend->foot(Array, NULL, false, false, Array)
+#4 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#6 /home/wilder/Local/vision-digital-4-0/app/public/wp-content/pl dans /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php à la ligne 35
+
+2022-04-19T08:23:27+00:00 CRITICAL Uncaught Error: Call to undefined function action() in /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php:37
+Stack trace:
+#0 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(309): change_button_function('Envoyer')
+#1 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(189): WP_Hook->apply_filters('Envoyer', Array)
+#2 /home/wilder/Local/vision-digital-4-0/app/public/wp-content/plugins/wpforms-lite/includes/class-frontend.php(1039): apply_filters('wpforms_field_s...', 'Envoyer', Array)
+#3 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(307): WPForms_Frontend->foot(Array, NULL, false, false, Array)
+#4 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#6 /home/wilder/Local/vision-digital-4-0/app/public/wp-content/pl dans /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php à la ligne 37
+
+2022-04-19T08:24:19+00:00 CRITICAL Uncaught Error: Call to undefined function action() in /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php:37
+Stack trace:
+#0 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(309): change_button_function('Envoyer')
+#1 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(189): WP_Hook->apply_filters('Envoyer', Array)
+#2 /home/wilder/Local/vision-digital-4-0/app/public/wp-content/plugins/wpforms-lite/includes/class-frontend.php(1039): apply_filters('wpforms_field_s...', 'Envoyer', Array)
+#3 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(307): WPForms_Frontend->foot(Array, NULL, false, false, Array)
+#4 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#6 /home/wilder/Local/vision-digital-4-0/app/public/wp-content/pl dans /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php à la ligne 37
+
+2022-04-19T08:27:19+00:00 CRITICAL Uncaught Error: Call to undefined function action() in /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php:37
+Stack trace:
+#0 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(309): change_button_function('Envoyer')
+#1 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(189): WP_Hook->apply_filters('Envoyer', Array)
+#2 /home/wilder/Local/vision-digital-4-0/app/public/wp-content/plugins/wpforms-lite/includes/class-frontend.php(1039): apply_filters('wpforms_field_s...', 'Envoyer', Array)
+#3 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(307): WPForms_Frontend->foot(Array, NULL, false, false, Array)
+#4 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#6 /home/wilder/Local/vision-digital-4-0/app/public/wp-content/pl dans /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php à la ligne 37
+
+2022-04-19T08:38:00+00:00 CRITICAL syntax error, unexpected ':', expecting ')' dans /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php à la ligne 37
+
+2022-04-19T08:38:00+00:00 CRITICAL syntax error, unexpected ':', expecting ')' dans /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php à la ligne 37
+
+2022-04-19T09:22:17+00:00 CRITICAL Uncaught Error: Call to undefined function themes_dir_url() in /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php:35
+Stack trace:
+#0 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(307): qg_enqueue('')
+#1 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#3 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/script-loader.php(2115): do_action('wp_enqueue_scri...')
+#4 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(307): wp_enqueue_scripts('')
+#5 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#6 /home/wilder/Local/vision-digital-4-0/app/public/wp-includes/plugin.php(474): WP_Hook->do_action(Array)
+#7 /home/wilder/Local/vision-digital-4-0/app/public/w dans /home/wilder/Local/vision-digital-4-0/app/public/wp-content/themes/oceanwp-child/functions.php à la ligne 35
+

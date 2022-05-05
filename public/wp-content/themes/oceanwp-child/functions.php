@@ -1,0 +1,52 @@
+<?php
+// Exit if accessed directly
+if ( !defined( 'ABSPATH' ) ) exit;
+
+// BEGIN ENQUEUE PARENT ACTION
+// AUTO GENERATED - Do not modify or remove comment markers above or below:
+
+if ( !function_exists( 'chld_thm_cfg_locale_css' ) ):
+    function chld_thm_cfg_locale_css( $uri ){
+        if ( empty( $uri ) && is_rtl() && file_exists( get_template_directory() . '/rtl.css' ) )
+            $uri = get_template_directory_uri() . '/rtl.css';
+        return $uri;
+    }
+endif;
+add_filter( 'locale_stylesheet_uri', 'chld_thm_cfg_locale_css' );
+         
+if ( !function_exists( 'child_theme_configurator_css' ) ):
+    function child_theme_configurator_css() {
+        wp_enqueue_style( 'chld_thm_cfg_child', trailingslashit( get_stylesheet_directory_uri() ) . 'style.css', array( 'oceanwp-woo-mini-cart','font-awesome','simple-line-icons','oceanwp-style','oceanwp-woocommerce','oceanwp-woo-star-font','oceanwp-woo-quick-view' ) );
+    }
+endif;
+add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 10 );
+
+// END ENQUEUE PARENT ACTION
+
+
+
+// CONNECT JAVASCRIPT
+
+add_action( 'wp_enqueue_scripts', 'qg_enqueue');
+function qg_enqueue(){
+    wp_enqueue_script('qgjs', get_stylesheet_directory_uri().'/ocean-wp-child.js', array(), false, true);    
+}
+
+
+// CONNECT PHP
+/*
+if ( !function_exists( 'change_button_action' ) ):
+    function change_button_action($buttons){
+        $buttons = [".wpforms-submit-container < button"];
+
+if("/services/"){
+    
+    for($i=0; $i < $buttons; $i++){
+     $buttons[i].socket_create_listen("click");
+          header("location:/contact-services/");
+    }
+ }
+}
+endif;
+ add_action("wpforms-submit-container","change_button_action");
+ */
